@@ -1,0 +1,1 @@
+ALTER DATABASE sampledb RENAME TO newdb;
